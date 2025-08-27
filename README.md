@@ -38,5 +38,6 @@ If you find this work useful, please cite:
   title={Building Task Bots with Self-learning for Enhanced Adaptability, Extensibility, and Factuality},
   author={Xiaoying Zhang},
   journal={Preprint},
+  url = "https://github.com/zhangxy-2019/thesis_self_learning_agent",
   year={2025}
 }
