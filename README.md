@@ -34,10 +34,9 @@ This thesis advocates for a paradigm shift toward task bots that can autonomousl
 If you find this work useful, please cite:
 
 ```bibtex
-@article{zhang2025selflearning,
+@article{zhang2025building,
   title={Building Task Bots with Self-learning for Enhanced Adaptability, Extensibility, and Factuality},
-  author={Xiaoying Zhang},
-  journal={Preprint},
-  url = "https://github.com/zhangxy-2019/thesis_self_learning_agent",
+  author={Zhang, Xiaoying},
+  journal={arXiv preprint arXiv:2508.19689},
   year={2025}
 }
